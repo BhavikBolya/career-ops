@@ -25,16 +25,17 @@
 
 ## Scoring System
 
-The evaluation uses 6 blocks (A-F) with a global score of 1-5:
+The evaluation uses 4 blocks (A-D) with a global score of 1-5:
 
-| Dimension | What it measures |
-|-----------|-----------------|
-| Match con CV | Skills, experience, proof points alignment |
-| North Star alignment | How well the role fits the user's target archetypes (from _profile.md) |
-| Comp | Salary vs market (5=top quartile, 1=well below) |
-| Cultural signals | Company culture, growth, stability, remote policy |
-| Red flags | Blockers, warnings (negative adjustments) |
-| **Global** | Weighted average of above |
+| Dimension | Weight | What it measures |
+|-----------|--------|-----------------|
+| CV Match | 40% | Skills, experience, proof points alignment |
+| North Star alignment | 30% | How well the role fits the user's target archetypes (from _profile.md) |
+| Cultural signals | 20% | Company culture, growth, stability, location |
+| Red flags | 10% | Blockers, warnings (negative adjustments) |
+| **Global** | 100% | Weighted average of above |
+
+**Comp is NOT a scoring dimension.** Mention the salary range in the report for reference only.
 
 **Score interpretation:**
 - 4.5+ → Strong match, recommend applying immediately
